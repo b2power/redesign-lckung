@@ -1,0 +1,31 @@
+.profile-bg {
+
+}
+
+.cover {
+	margin-top: 30px;
+	background: url("../image/cover.jpg") no-repeat;
+	background-size: cover;
+}
+
+.profile-pic {
+	width: 200px;
+	height: 200px;
+	margin: 200px auto 20px;
+	-webkit-filter: brightness(1.2);
+	background: url("../image/bear.jpg") no-repeat;
+	background-size: cover;
+}
+
+li[class^="mdi-"] {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.footer-copyright {
+	overflow: hidden;
+	height: 50px;
+	line-height: 50px;
+	
+}
+
